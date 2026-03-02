@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+anthropic
+openai
+chromadb
+sentence-transformers
+pymupdf
+sqlalchemy
+aiosqlite
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+pydantic-settings
+httpx
+pytest
+pytest-asyncio
